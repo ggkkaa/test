@@ -1,0 +1,36 @@
+/*Ordered by how closely it points to code*/
+#brush {
+    background-color: mediumspringgreen;
+}
+
+#frame {
+    background-color: lightcoral;
+}
+
+#paint {
+    background-color: skyblue;
+}
+
+.price {
+    font-weight: bold;
+    color: blue;
+}
+
+h1 {
+    font-size: 100px;
+    font-weight: bold;
+    color: khaki;
+    text-align: center;
+    background-image: url(../pictures/pattern.webp);
+}
+
+h2 {
+    font-size: 32px;
+    font-weight: bold;
+    color: white;
+    
+}
+
+h1, h2, h3, p {
+    font-family: Helvetica;
+}
